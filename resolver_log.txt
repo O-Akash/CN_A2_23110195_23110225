@@ -1,0 +1,348 @@
+Timestamp, Domain name queried, Resolution mode, DNS server IP contacted, Step of resolution, Response or referral received, Round-trip time to that server, Total time to resolution, Cache status
+2025-10-28 17:52:18.321664, 2brightsparks.co.uk., Iterative, 198.41.0.4, Root, Referral with Glue to 213.248.216.1, 222.318 ms, 0.000 ms, MISS
+2025-10-28 17:52:18.583322, 2brightsparks.co.uk., Iterative, 213.248.216.1, Authoritative, Failed to Resolve NS IP for ns-343.awsdns-42.com., 208.518 ms, 0.000 ms, MISS
+2025-10-28 17:52:18.583610, 2brightsparks.co.uk., Iterative, 213.248.216.1, Failure, NXDOMAIN/Timeout, 430.836 ms, 485.754 ms, FAILED
+2025-10-28 17:52:18.908884, 41latitude.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 248.914 ms, 0.000 ms, MISS
+2025-10-28 17:52:19.126860, 41latitude.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 156.154.132.200, 217.462 ms, 0.000 ms, MISS
+2025-10-28 17:52:19.232556, 41latitude.com., Iterative, 156.154.132.200, TLD, Failed to Resolve NS IP for dns1.registrar-servers.com. hostmaster.registrar-servers.com. 1610729906 43200 3600 604800 3601, 66.717 ms, 0.000 ms, MISS
+2025-10-28 17:52:19.233132, 41latitude.com., Iterative, 156.154.132.200, Failure, NXDOMAIN/Timeout, 533.093 ms, 573.682 ms, FAILED
+2025-10-28 17:52:19.557341, 7dfps.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 279.866 ms, 0.000 ms, MISS
+2025-10-28 17:52:19.753929, 7dfps.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.194.152, 196.301 ms, 0.000 ms, MISS
+2025-10-28 17:52:19.821066, 7dfps.com., Iterative, 108.162.194.152, TLD, A, 66.920 ms, 544.141 ms, MISS
+2025-10-28 17:52:20.059159, advertos.ru., Iterative, 198.41.0.4, Root, Referral with Glue to 193.232.128.6, 187.760 ms, 0.000 ms, MISS
+2025-10-28 17:52:20.413041, advertos.ru., Iterative, 193.232.128.6, TLD, Failed to Resolve NS IP for dns4.fastdns24.link., 305.631 ms, 0.000 ms, MISS
+2025-10-28 17:52:20.413197, advertos.ru., Iterative, 193.232.128.6, Failure, NXDOMAIN/Timeout, 493.391 ms, 542.505 ms, FAILED
+2025-10-28 17:52:20.675291, afairjudgement.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 206.938 ms, 0.000 ms, MISS
+2025-10-28 17:52:20.879526, afairjudgement.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.192.116, 203.834 ms, 0.000 ms, MISS
+2025-10-28 17:52:20.934501, afairjudgement.com., Iterative, 108.162.192.116, TLD, A, 54.429 ms, 467.206 ms, MISS
+2025-10-28 17:52:21.192518, afresnohomeinspector.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 211.612 ms, 0.000 ms, MISS
+2025-10-28 17:52:21.797185, afresnohomeinspector.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for ns1.homeinspectorpro.org., 194.581 ms, 0.000 ms, MISS
+2025-10-28 17:52:21.797585, afresnohomeinspector.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 406.193 ms, 817.195 ms, FAILED
+2025-10-28 17:52:22.005393, alchemedialtd.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 159.795 ms, 0.000 ms, MISS
+2025-10-28 17:52:22.187705, alchemedialtd.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 13.248.158.180, 182.021 ms, 0.000 ms, MISS
+2025-10-28 17:52:22.240754, alchemedialtd.com., Iterative, 13.248.158.180, TLD, A, 52.810 ms, 395.841 ms, MISS
+2025-10-28 17:52:22.523508, alenpuaca.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 237.735 ms, 0.000 ms, MISS
+2025-10-28 17:52:22.731766, alenpuaca.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 162.159.26.14, 207.857 ms, 0.000 ms, MISS
+2025-10-28 17:52:23.221556, alenpuaca.com., Iterative, 162.159.26.14, TLD, A, 489.520 ms, 936.332 ms, MISS
+2025-10-28 17:52:23.546919, amorefieldlife.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 248.643 ms, 0.000 ms, MISS
+2025-10-28 17:52:23.843895, amorefieldlife.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 162.159.24.80, 296.573 ms, 0.000 ms, MISS
+2025-10-28 17:52:23.898453, amorefieldlife.com., Iterative, 162.159.24.80, TLD, A, 54.219 ms, 600.692 ms, MISS
+2025-10-28 17:52:24.160790, aqvr.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 201.571 ms, 0.000 ms, MISS
+2025-10-28 17:52:24.324974, aqvr.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 89.117.23.47, 163.716 ms, 0.000 ms, MISS
+2025-10-28 17:52:24.669342, aqvr.com., Iterative, 89.117.23.47, TLD, A, 344.076 ms, 711.038 ms, MISS
+2025-10-28 17:52:24.984093, asadventure.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 272.066 ms, 0.000 ms, MISS
+2025-10-28 17:52:25.180062, asadventure.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 205.251.192.219, 195.676 ms, 0.000 ms, MISS
+2025-10-28 17:52:25.234665, asadventure.com., Iterative, 205.251.192.219, TLD, A, 54.315 ms, 523.248 ms, MISS
+2025-10-28 17:52:25.490587, astrumonline.ru., Iterative, 198.41.0.4, Root, Referral with Glue to 193.232.128.6, 203.243 ms, 0.000 ms, MISS
+2025-10-28 17:52:26.303361, astrumonline.ru., Iterative, 193.232.128.6, TLD, Failed to Resolve NS IP for opr-ns2.astrumnival.com., 302.020 ms, 0.000 ms, MISS
+2025-10-28 17:52:26.304008, astrumonline.ru., Iterative, 193.232.128.6, Failure, NXDOMAIN/Timeout, 505.263 ms, 1017.662 ms, FAILED
+2025-10-28 17:52:26.613521, auqzzx.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 249.314 ms, 0.000 ms, MISS
+2025-10-28 17:52:26.956016, auqzzx.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654154 1800 900 604800 900, 303.310 ms, 0.000 ms, MISS
+2025-10-28 17:52:26.956432, auqzzx.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 552.624 ms, 592.708 ms, FAILED
+2025-10-28 17:52:27.229454, australiatradenow.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 231.105 ms, 0.000 ms, MISS
+2025-10-28 17:52:27.430902, australiatradenow.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 205.251.192.250, 201.078 ms, 0.000 ms, MISS
+2025-10-28 17:52:27.486878, australiatradenow.com., Iterative, 205.251.192.250, TLD, A, 55.791 ms, 489.113 ms, MISS
+2025-10-28 17:52:27.741256, autofirenze.biz., Iterative, 198.41.0.4, Root, Referral with Glue to 156.154.125.65, 214.195 ms, 0.000 ms, MISS
+2025-10-28 17:52:28.249790, autofirenze.biz., Iterative, 156.154.125.65, TLD, Failed to Resolve NS IP for dns4.arubadns.cz., 65.655 ms, 0.000 ms, MISS
+2025-10-28 17:52:28.250314, autofirenze.biz., Iterative, 156.154.125.65, Failure, NXDOMAIN/Timeout, 279.850 ms, 723.809 ms, FAILED
+2025-10-28 17:52:28.559743, bikesandtransit.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 263.013 ms, 0.000 ms, MISS
+2025-10-28 17:52:28.763669, bikesandtransit.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 198.181.116.9, 203.634 ms, 0.000 ms, MISS
+2025-10-28 17:52:28.832008, bikesandtransit.com., Iterative, 198.181.116.9, TLD, A, 67.991 ms, 535.766 ms, MISS
+2025-10-28 17:52:29.078399, blueridgelife.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 206.795 ms, 0.000 ms, MISS
+2025-10-28 17:52:29.235377, blueridgelife.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.107.8, 156.477 ms, 0.000 ms, MISS
+2025-10-28 17:52:29.488242, blueridgelife.com., Iterative, 97.74.107.8, TLD, A, 252.401 ms, 617.424 ms, MISS
+2025-10-28 17:52:29.790938, b-matrix.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 260.240 ms, 0.000 ms, MISS
+2025-10-28 17:52:29.992124, b-matrix.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.107.28, 200.362 ms, 0.000 ms, MISS
+2025-10-28 17:52:30.194507, b-matrix.com., Iterative, 97.74.107.28, TLD, A, 201.833 ms, 664.452 ms, MISS
+2025-10-28 17:52:30.507070, buynowfromusa.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 255.358 ms, 0.000 ms, MISS
+2025-10-28 17:52:30.708659, buynowfromusa.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 216.239.32.108, 201.072 ms, 0.000 ms, MISS
+2025-10-28 17:52:30.911772, buynowfromusa.com., Iterative, 216.239.32.108, TLD, A, 202.614 ms, 660.916 ms, MISS
+2025-10-28 17:52:31.223528, camcard.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 253.675 ms, 0.000 ms, MISS
+2025-10-28 17:52:31.433705, camcard.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 205.251.192.48, 209.461 ms, 0.000 ms, MISS
+2025-10-28 17:52:31.486634, camcard.com., Iterative, 205.251.192.48, TLD, A, 52.483 ms, 519.457 ms, MISS
+2025-10-28 17:52:31.696182, caricsports.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 164.586 ms, 0.000 ms, MISS
+2025-10-28 17:52:31.871667, caricsports.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.192.247, 175.132 ms, 0.000 ms, MISS
+2025-10-28 17:52:31.928814, caricsports.com., Iterative, 108.162.192.247, TLD, A, 56.634 ms, 398.578 ms, MISS
+2025-10-28 17:52:32.125870, cetsi.fr., Iterative, 198.41.0.4, Root, Referral with Glue to 194.146.106.46, 158.684 ms, 0.000 ms, MISS
+2025-10-28 17:52:32.299836, cetsi.fr., Iterative, 194.146.106.46, TLD, Referral with Glue to 91.151.64.234, 173.028 ms, 0.000 ms, MISS
+2025-10-28 17:52:32.529997, cetsi.fr., Iterative, 91.151.64.234, TLD, A, 229.880 ms, 563.325 ms, MISS
+2025-10-28 17:52:32.777796, chonvn.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 195.870 ms, 0.000 ms, MISS
+2025-10-28 17:52:32.996248, chonvn.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654184 1800 900 604800 900, 179.897 ms, 0.000 ms, MISS
+2025-10-28 17:52:32.996630, chonvn.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 375.767 ms, 415.399 ms, FAILED
+2025-10-28 17:52:33.212680, chuamatsua.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 175.565 ms, 0.000 ms, MISS
+2025-10-28 17:52:33.471569, chuamatsua.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.194.195, 257.733 ms, 0.000 ms, MISS
+2025-10-28 17:52:33.521709, chuamatsua.com., Iterative, 108.162.194.195, Failure, NXDOMAIN/Timeout, 483.225 ms, 485.377 ms, FAILED
+2025-10-28 17:52:33.783919, mobile.events.data.microsoft.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 260.669 ms, 0.000 ms, MISS
+2025-10-28 17:52:33.987949, mobile.events.data.microsoft.com., Iterative, 192.41.162.30, Authoritative, Referral with Glue to 150.171.10.39, 202.682 ms, 0.000 ms, MISS
+2025-10-28 17:52:34.029348, mobile.events.data.microsoft.com., Iterative, 150.171.10.39, Authoritative, CNAME, 41.121 ms, 506.425 ms, MISS
+2025-10-28 17:52:34.030940, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.219 ms, HIT
+2025-10-28 17:52:34.292316, coutureauchocolat.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 259.660 ms, 0.000 ms, MISS
+2025-10-28 17:52:34.534316, coutureauchocolat.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654184 1800 900 604800 900, 202.829 ms, 0.000 ms, MISS
+2025-10-28 17:52:34.534708, coutureauchocolat.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 462.489 ms, 502.695 ms, FAILED
+2025-10-28 17:52:34.535929, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.204 ms, HIT
+2025-10-28 17:52:34.558127, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.317 ms, HIT
+2025-10-28 17:52:34.563000, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.263 ms, HIT
+2025-10-28 17:52:34.810749, daehepharma.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 234.743 ms, 0.000 ms, MISS
+2025-10-28 17:52:35.011899, daehepharma.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 220.73.163.40, 200.739 ms, 0.000 ms, MISS
+2025-10-28 17:52:35.249353, daehepharma.com., Iterative, 220.73.163.40, TLD, Failed to Resolve NS IP for ns01.dhrcenter.com. root.ns01.dhrcenter.com. 2019111809 28800 7200 604800 300, 199.674 ms, 0.000 ms, MISS
+2025-10-28 17:52:35.249681, daehepharma.com., Iterative, 220.73.163.40, Failure, NXDOMAIN/Timeout, 635.157 ms, 674.158 ms, FAILED
+2025-10-28 17:52:35.250855, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.205 ms, HIT
+2025-10-28 17:52:35.526314, datepanchang.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 239.430 ms, 0.000 ms, MISS
+2025-10-28 17:52:35.691006, datepanchang.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.194.214, 163.924 ms, 0.000 ms, MISS
+2025-10-28 17:52:36.236950, datepanchang.com., Iterative, 108.162.194.214, TLD, A, 545.287 ms, 950.900 ms, MISS
+2025-10-28 17:52:36.553720, diamondknot.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 258.799 ms, 0.000 ms, MISS
+2025-10-28 17:52:36.751154, diamondknot.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.102.13, 196.755 ms, 0.000 ms, MISS
+2025-10-28 17:52:36.953199, diamondknot.com., Iterative, 97.74.102.13, TLD, A, 201.721 ms, 659.102 ms, MISS
+2025-10-28 17:52:37.161502, ditrblog.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 165.920 ms, 0.000 ms, MISS
+2025-10-28 17:52:37.399029, ditrblog.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654169 1800 900 604800 900, 198.990 ms, 0.000 ms, MISS
+2025-10-28 17:52:37.399225, ditrblog.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 364.911 ms, 404.401 ms, FAILED
+2025-10-28 17:52:37.606520, dj-producer-j-mbargo.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 161.926 ms, 0.000 ms, MISS
+2025-10-28 17:52:37.909609, dj-producer-j-mbargo.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654184 1800 900 604800 900, 265.675 ms, 0.000 ms, MISS
+2025-10-28 17:52:37.909965, dj-producer-j-mbargo.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 427.601 ms, 466.361 ms, FAILED
+2025-10-28 17:52:38.185784, door2games.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 226.421 ms, 0.000 ms, MISS
+2025-10-28 17:52:38.392525, door2games.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.102.23, 205.392 ms, 0.000 ms, MISS
+2025-10-28 17:52:38.595636, door2games.com., Iterative, 97.74.102.23, TLD, A, 202.755 ms, 636.878 ms, MISS
+2025-10-28 17:52:38.596338, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.158 ms, HIT
+2025-10-28 17:52:38.596954, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.141 ms, HIT
+2025-10-28 17:52:38.630065, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.480 ms, HIT
+2025-10-28 17:52:38.853037, effexdjs.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 187.874 ms, 0.000 ms, MISS
+2025-10-28 17:52:39.167932, effexdjs.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654169 1800 900 604800 900, 266.509 ms, 0.000 ms, MISS
+2025-10-28 17:52:39.168150, effexdjs.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 454.382 ms, 503.864 ms, FAILED
+2025-10-28 17:52:39.168948, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.219 ms, HIT
+2025-10-28 17:52:39.169576, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.141 ms, HIT
+2025-10-28 17:52:39.203695, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.461 ms, HIT
+2025-10-28 17:52:39.415300, energybulbs.co.uk., Iterative, 198.41.0.4, Root, Referral with Glue to 213.248.216.1, 206.910 ms, 0.000 ms, MISS
+2025-10-28 17:52:39.652066, energybulbs.co.uk., Iterative, 213.248.216.1, Authoritative, Failed to Resolve NS IP for ns0.lcn.com., 200.225 ms, 0.000 ms, MISS
+2025-10-28 17:52:39.652417, energybulbs.co.uk., Iterative, 213.248.216.1, Failure, NXDOMAIN/Timeout, 407.135 ms, 444.531 ms, FAILED
+2025-10-28 17:52:39.925747, eugenbotnar.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 222.931 ms, 0.000 ms, MISS
+2025-10-28 17:52:40.172982, eugenbotnar.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654169 1800 900 604800 900, 205.765 ms, 0.000 ms, MISS
+2025-10-28 17:52:40.173392, eugenbotnar.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 428.695 ms, 471.069 ms, FAILED
+2025-10-28 17:52:40.440602, ex-jw.org., Iterative, 198.41.0.4, Root, Referral with Glue to 199.249.112.1, 224.585 ms, 0.000 ms, MISS
+2025-10-28 17:52:40.576270, ex-jw.org., Iterative, 199.249.112.1, TLD, Failed to Resolve NS IP for ns10.wixdns.net., 98.327 ms, 0.000 ms, MISS
+2025-10-28 17:52:40.576706, ex-jw.org., Iterative, 199.249.112.1, Failure, NXDOMAIN/Timeout, 322.911 ms, 361.418 ms, FAILED
+2025-10-28 17:52:40.849087, fini.net., Iterative, 198.41.0.4, Root, Referral with Glue to 192.55.83.30, 219.863 ms, 0.000 ms, MISS
+2025-10-28 17:52:41.057012, fini.net., Iterative, 192.55.83.30, TLD, Referral with Glue to 198.57.196.96, 207.422 ms, 0.000 ms, MISS
+2025-10-28 17:52:41.462129, fini.net., Iterative, 198.57.196.96, TLD, A, 404.722 ms, 833.845 ms, MISS
+2025-10-28 17:52:41.768860, forpsi.net., Iterative, 198.41.0.4, Root, Referral with Glue to 192.55.83.30, 259.975 ms, 0.000 ms, MISS
+2025-10-28 17:52:42.079615, forpsi.net., Iterative, 192.55.83.30, TLD, Referral with Glue to 81.2.194.130, 310.431 ms, 0.000 ms, MISS
+2025-10-28 17:52:42.279141, forpsi.net., Iterative, 81.2.194.130, TLD, A, 199.027 ms, 770.971 ms, MISS
+2025-10-28 17:52:42.590776, gamemob.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 254.913 ms, 0.000 ms, MISS
+2025-10-28 17:52:42.790896, gamemob.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.100.1, 199.776 ms, 0.000 ms, MISS
+2025-10-28 17:52:43.099546, gamemob.com., Iterative, 97.74.100.1, TLD, A, 308.220 ms, 764.357 ms, MISS
+2025-10-28 17:52:43.410490, gensee.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 267.066 ms, 0.000 ms, MISS
+2025-10-28 17:52:43.614009, gensee.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 1.12.0.17, 201.854 ms, 0.000 ms, MISS
+2025-10-28 17:52:43.719668, gensee.com., Iterative, 1.12.0.17, TLD, A, 104.692 ms, 576.840 ms, MISS
+2025-10-28 17:52:44.024390, globalpoliticalspectrum.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 257.388 ms, 0.000 ms, MISS
+2025-10-28 17:52:44.269740, globalpoliticalspectrum.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654184 1800 900 604800 900, 209.462 ms, 0.000 ms, MISS
+2025-10-28 17:52:44.270111, globalpoliticalspectrum.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 466.850 ms, 504.097 ms, FAILED
+2025-10-28 17:52:44.534078, group14eng.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 224.605 ms, 0.000 ms, MISS
+2025-10-28 17:52:44.747427, group14eng.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.104.5, 212.880 ms, 0.000 ms, MISS
+2025-10-28 17:52:45.043518, group14eng.com., Iterative, 97.74.104.5, TLD, A, 295.689 ms, 734.535 ms, MISS
+2025-10-28 17:52:45.255692, gusbi.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 171.142 ms, 0.000 ms, MISS
+2025-10-28 17:52:45.428318, gusbi.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 141.95.229.94, 171.793 ms, 0.000 ms, MISS
+2025-10-28 17:52:45.663126, gusbi.com., Iterative, 141.95.229.94, TLD, A, 234.458 ms, 579.176 ms, MISS
+2025-10-28 17:52:45.968885, healthnews4you.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 264.594 ms, 0.000 ms, MISS
+2025-10-28 17:52:46.177553, healthnews4you.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 173.201.70.43, 208.354 ms, 0.000 ms, MISS
+2025-10-28 17:52:46.477873, healthnews4you.com., Iterative, 173.201.70.43, TLD, A, 299.930 ms, 774.297 ms, MISS
+2025-10-28 17:52:46.785470, hemcolubricants.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 266.299 ms, 0.000 ms, MISS
+2025-10-28 17:52:47.036980, hemcolubricants.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for ns1.loopia.se., 210.352 ms, 0.000 ms, MISS
+2025-10-28 17:52:47.037318, hemcolubricants.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 476.651 ms, 519.071 ms, FAILED
+2025-10-28 17:52:47.307940, hornil.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 232.170 ms, 0.000 ms, MISS
+2025-10-28 17:52:47.506128, hornil.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 1.226.85.4, 197.778 ms, 0.000 ms, MISS
+2025-10-28 17:52:47.707554, hornil.com., Iterative, 1.226.85.4, TLD, A, 201.018 ms, 632.257 ms, MISS
+2025-10-28 17:52:48.018970, house-sg.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 259.339 ms, 0.000 ms, MISS
+2025-10-28 17:52:48.424206, house-sg.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for ns1.4.cn., 205.742 ms, 0.000 ms, MISS
+2025-10-28 17:52:48.424735, house-sg.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 465.081 ms, 665.639 ms, FAILED
+2025-10-28 17:52:48.735067, iag-inc.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 251.809 ms, 0.000 ms, MISS
+2025-10-28 17:52:48.978812, iag-inc.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for domain-may-be-for-sale-at.edoms.biz., 197.897 ms, 0.000 ms, MISS
+2025-10-28 17:52:48.979012, iag-inc.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 449.706 ms, 496.356 ms, FAILED
+2025-10-28 17:52:49.244813, i-butterfly.ru., Iterative, 198.41.0.4, Root, Referral with Glue to 193.232.128.6, 215.327 ms, 0.000 ms, MISS
+2025-10-28 17:52:49.595212, i-butterfly.ru., Iterative, 193.232.128.6, TLD, Failed to Resolve NS IP for fred.ns.cloudflare.com., 306.247 ms, 0.000 ms, MISS
+2025-10-28 17:52:49.595416, i-butterfly.ru., Iterative, 193.232.128.6, Failure, NXDOMAIN/Timeout, 521.574 ms, 566.414 ms, FAILED
+2025-10-28 17:52:49.860293, informarexresistere.fr., Iterative, 198.41.0.4, Root, Referral with Glue to 194.146.106.46, 221.993 ms, 0.000 ms, MISS
+2025-10-28 17:52:50.675030, informarexresistere.fr., Iterative, 194.146.106.46, TLD, Failed to Resolve NS IP for ns100.ovh.net., 299.599 ms, 0.000 ms, MISS
+2025-10-28 17:52:50.675372, informarexresistere.fr., Iterative, 194.146.106.46, Failure, NXDOMAIN/Timeout, 521.592 ms, 1038.395 ms, FAILED
+2025-10-28 17:52:50.986461, interfloracentral.co.uk., Iterative, 198.41.0.4, Root, Referral with Glue to 213.248.216.1, 263.199 ms, 0.000 ms, MISS
+2025-10-28 17:52:51.598277, interfloracentral.co.uk., Iterative, 213.248.216.1, Authoritative, Failed to Resolve NS IP for dns01.eliteukserve.net., 204.384 ms, 0.000 ms, MISS
+2025-10-28 17:52:51.598699, interfloracentral.co.uk., Iterative, 213.248.216.1, Failure, NXDOMAIN/Timeout, 467.582 ms, 876.111 ms, FAILED
+2025-10-28 17:52:51.807070, jantv.in., Iterative, 198.41.0.4, Root, Referral with Glue to 64.78.205.1, 161.709 ms, 0.000 ms, MISS
+2025-10-28 17:52:51.893345, jantv.in., Iterative, 64.78.205.1, TLD, Failed to Resolve NS IP for cora.ns.cloudflare.com., 51.792 ms, 0.000 ms, MISS
+2025-10-28 17:52:51.893743, jantv.in., Iterative, 64.78.205.1, Failure, NXDOMAIN/Timeout, 213.500 ms, 248.994 ms, FAILED
+2025-10-28 17:52:52.107191, junio.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 164.978 ms, 0.000 ms, MISS
+2025-10-28 17:52:52.288882, junio.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 209.196.146.153, 180.950 ms, 0.000 ms, MISS
+2025-10-28 17:52:52.686316, junio.com., Iterative, 209.196.146.153, TLD, A, 397.206 ms, 745.086 ms, MISS
+2025-10-28 17:52:52.914579, kathihill.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 178.765 ms, 0.000 ms, MISS
+2025-10-28 17:52:53.131877, kathihill.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 172.64.52.210, 216.823 ms, 0.000 ms, MISS
+2025-10-28 17:52:53.219490, kathihill.com., Iterative, 172.64.52.210, TLD, A, 86.676 ms, 484.265 ms, MISS
+2025-10-28 17:52:53.418367, kennethehartman.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 155.232 ms, 0.000 ms, MISS
+2025-10-28 17:52:53.649003, kennethehartman.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 198.181.116.9, 230.117 ms, 0.000 ms, MISS
+2025-10-28 17:52:53.722206, kennethehartman.com., Iterative, 198.181.116.9, TLD, A, 72.917 ms, 459.589 ms, MISS
+2025-10-28 17:52:54.057334, khsm.ru., Iterative, 198.41.0.4, Root, Referral with Glue to 193.232.128.6, 275.635 ms, 0.000 ms, MISS
+2025-10-28 17:52:54.878884, khsm.ru., Iterative, 193.232.128.6, TLD, Failed to Resolve NS IP for ns1.frienddns.info., 270.196 ms, 0.000 ms, MISS
+2025-10-28 17:52:54.879406, khsm.ru., Iterative, 193.232.128.6, Failure, NXDOMAIN/Timeout, 545.832 ms, 1098.384 ms, FAILED
+2025-10-28 17:52:55.186317, kh.ua., Iterative, 198.41.0.4, Root, Referral with Glue to 185.136.97.185, 242.986 ms, 0.000 ms, MISS
+2025-10-28 17:52:55.293000, kh.ua., Iterative, 185.136.97.185, TLD, Referral with Glue to 194.58.197.4, 105.458 ms, 0.000 ms, MISS
+2025-10-28 17:52:55.450651, kh.ua., Iterative, 194.58.197.4, TLD, A, 157.119 ms, 507.832 ms, MISS
+2025-10-28 17:52:55.695289, linksplash.info., Iterative, 198.41.0.4, Root, Referral with Glue to 199.254.48.1, 200.165 ms, 0.000 ms, MISS
+2025-10-28 17:52:55.818554, linksplash.info., Iterative, 199.254.48.1, TLD, Failed to Resolve NS IP for a0.info.afilias-nst.info. hostmaster.donuts.email. 1761653709 7200 900 1209600 3600, 80.772 ms, 0.000 ms, MISS
+2025-10-28 17:52:55.819295, linksplash.info., Iterative, 199.254.48.1, Failure, NXDOMAIN/Timeout, 280.936 ms, 324.679 ms, FAILED
+2025-10-28 17:52:56.105219, livelinks.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 247.553 ms, 0.000 ms, MISS
+2025-10-28 17:52:56.309173, livelinks.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 205.251.193.112, 203.587 ms, 0.000 ms, MISS
+2025-10-28 17:52:56.370370, livelinks.com., Iterative, 205.251.193.112, TLD, A, 60.811 ms, 513.350 ms, MISS
+2025-10-28 17:52:56.565809, localhost.re., Iterative, 198.41.0.4, Root, Referral with Glue to 194.0.9.1, 157.440 ms, 0.000 ms, MISS
+2025-10-28 17:52:56.856459, localhost.re., Iterative, 194.0.9.1, TLD, Failed to Resolve NS IP for megan.ns.cloudflare.com., 252.332 ms, 0.000 ms, MISS
+2025-10-28 17:52:56.856941, localhost.re., Iterative, 194.0.9.1, Failure, NXDOMAIN/Timeout, 409.772 ms, 449.057 ms, FAILED
+2025-10-28 17:52:57.131506, lozo.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 229.742 ms, 0.000 ms, MISS
+2025-10-28 17:52:57.332028, lozo.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 205.251.192.7, 200.166 ms, 0.000 ms, MISS
+2025-10-28 17:52:57.396944, lozo.com., Iterative, 205.251.192.7, TLD, A, 64.578 ms, 495.753 ms, MISS
+2025-10-28 17:52:57.640150, luckypuppygames.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 202.644 ms, 0.000 ms, MISS
+2025-10-28 17:52:57.857786, luckypuppygames.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 185.67.45.231, 217.193 ms, 0.000 ms, MISS
+2025-10-28 17:52:58.148215, luckypuppygames.com., Iterative, 185.67.45.231, TLD, A, 289.972 ms, 711.332 ms, MISS
+2025-10-28 17:52:58.462831, memeblender.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 268.950 ms, 0.000 ms, MISS
+2025-10-28 17:52:58.667969, memeblender.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.192.225, 204.474 ms, 0.000 ms, MISS
+2025-10-28 17:52:58.716340, memeblender.com., Iterative, 108.162.192.225, TLD, A, 47.964 ms, 523.171 ms, MISS
+2025-10-28 17:52:58.972386, mesites.co.za., Iterative, 198.41.0.4, Root, Referral with Glue to 196.4.160.27, 214.704 ms, 0.000 ms, MISS
+2025-10-28 17:52:59.326591, mesites.co.za., Iterative, 196.4.160.27, Authoritative, Referral with Glue to 206.223.136.200, 353.881 ms, 0.000 ms, MISS
+2025-10-28 17:52:59.827050, mesites.co.za., Iterative, 206.223.136.200, Authoritative, Failed to Resolve NS IP for ns1.dns-h.com., 462.945 ms, 0.000 ms, MISS
+2025-10-28 17:52:59.827935, mesites.co.za., Iterative, 206.223.136.200, Failure, NXDOMAIN/Timeout, 1031.531 ms, 1071.046 ms, FAILED
+2025-10-28 17:53:00.099200, michiganbulb.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 220.881 ms, 0.000 ms, MISS
+2025-10-28 17:53:00.304728, michiganbulb.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 162.159.26.131, 205.059 ms, 0.000 ms, MISS
+2025-10-28 17:53:00.717478, michiganbulb.com., Iterative, 162.159.26.131, TLD, A, 412.382 ms, 839.808 ms, MISS
+2025-10-28 17:53:01.024697, monsterhomesecuritystore.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 256.545 ms, 0.000 ms, MISS
+2025-10-28 17:53:01.280191, monsterhomesecuritystore.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654214 1800 900 604800 900, 201.550 ms, 0.000 ms, MISS
+2025-10-28 17:53:01.280650, monsterhomesecuritystore.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 458.095 ms, 512.998 ms, FAILED
+2025-10-28 17:53:01.537820, mwzip.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 217.919 ms, 0.000 ms, MISS
+2025-10-28 17:53:01.706696, mwzip.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.193.160, 168.380 ms, 0.000 ms, MISS
+2025-10-28 17:53:01.770269, mwzip.com., Iterative, 108.162.193.160, TLD, A, 61.385 ms, 451.032 ms, MISS
+2025-10-28 17:53:01.994142, mysearch-online.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 171.826 ms, 0.000 ms, MISS
+2025-10-28 17:53:02.214254, mysearch-online.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654199 1800 900 604800 900, 179.031 ms, 0.000 ms, MISS
+2025-10-28 17:53:02.214674, mysearch-online.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 350.857 ms, 393.266 ms, FAILED
+2025-10-28 17:53:02.460080, newstetic.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 195.748 ms, 0.000 ms, MISS
+2025-10-28 17:53:02.669645, newstetic.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.193.110, 209.280 ms, 0.000 ms, MISS
+2025-10-28 17:53:02.724683, newstetic.com., Iterative, 108.162.193.110, TLD, A, 50.591 ms, 460.908 ms, MISS
+2025-10-28 17:53:02.964094, niceinternetmoney.ru., Iterative, 198.41.0.4, Root, Referral with Glue to 193.232.128.6, 199.037 ms, 0.000 ms, MISS
+2025-10-28 17:53:03.311247, niceinternetmoney.ru., Iterative, 193.232.128.6, TLD, Failed to Resolve NS IP for a.dns.ripn.net. hostmaster.ripn.net. 4066499 86400 14400 2592000 3600, 304.306 ms, 0.000 ms, MISS
+2025-10-28 17:53:03.311445, niceinternetmoney.ru., Iterative, 193.232.128.6, Failure, NXDOMAIN/Timeout, 503.342 ms, 547.054 ms, FAILED
+2025-10-28 17:53:03.580905, ondemandappliancerepair.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 216.796 ms, 0.000 ms, MISS
+2025-10-28 17:53:03.800526, ondemandappliancerepair.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 217.160.82.63, 218.962 ms, 0.000 ms, MISS
+2025-10-28 17:53:04.090659, ondemandappliancerepair.com., Iterative, 217.160.82.63, TLD, A, 289.716 ms, 727.229 ms, MISS
+2025-10-28 17:53:04.400102, o-ov.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 271.763 ms, 0.000 ms, MISS
+2025-10-28 17:53:04.604145, o-ov.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.104.5, 203.542 ms, 0.000 ms, MISS
+2025-10-28 17:53:04.908628, o-ov.com., Iterative, 97.74.104.5, Failure, NXDOMAIN/Timeout, 779.388 ms, 780.785 ms, FAILED
+2025-10-28 17:53:05.222020, owlcreek.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 268.856 ms, 0.000 ms, MISS
+2025-10-28 17:53:05.429530, owlcreek.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 162.159.26.131, 206.734 ms, 0.000 ms, MISS
+2025-10-28 17:53:05.831346, owlcreek.com., Iterative, 162.159.26.131, TLD, A, 401.475 ms, 878.658 ms, MISS
+2025-10-28 17:53:06.153099, pbprofile.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 266.911 ms, 0.000 ms, MISS
+2025-10-28 17:53:06.405468, pbprofile.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654214 1800 900 604800 900, 191.503 ms, 0.000 ms, MISS
+2025-10-28 17:53:06.405689, pbprofile.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 458.414 ms, 520.017 ms, FAILED
+2025-10-28 17:53:06.653607, phi-pe.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 198.506 ms, 0.000 ms, MISS
+2025-10-28 17:53:06.892949, phi-pe.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654214 1800 900 604800 900, 202.989 ms, 0.000 ms, MISS
+2025-10-28 17:53:06.893109, phi-pe.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 401.495 ms, 439.991 ms, FAILED
+2025-10-28 17:53:07.164983, pictures-thailand.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 231.424 ms, 0.000 ms, MISS
+2025-10-28 17:53:07.375861, pictures-thailand.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 66.96.142.111, 209.502 ms, 0.000 ms, MISS
+2025-10-28 17:53:07.675591, pictures-thailand.com., Iterative, 66.96.142.111, TLD, A, 299.357 ms, 742.695 ms, MISS
+2025-10-28 17:53:07.986802, pieceinch.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 265.556 ms, 0.000 ms, MISS
+2025-10-28 17:53:08.290219, pieceinch.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.194.39, 303.145 ms, 0.000 ms, MISS
+2025-10-28 17:53:08.349076, pieceinch.com., Iterative, 108.162.194.39, TLD, A, 56.773 ms, 628.548 ms, MISS
+2025-10-28 17:53:08.599647, portclydegeneralstore.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 203.319 ms, 0.000 ms, MISS
+2025-10-28 17:53:08.804108, portclydegeneralstore.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.108.49, 204.025 ms, 0.000 ms, MISS
+2025-10-28 17:53:09.008220, portclydegeneralstore.com., Iterative, 97.74.108.49, TLD, A, 203.747 ms, 612.743 ms, MISS
+2025-10-28 17:53:09.315948, ppsuika.ac.id., Iterative, 198.41.0.4, Root, Referral with Glue to 202.12.31.53, 248.078 ms, 0.000 ms, MISS
+2025-10-28 17:53:09.533855, ppsuika.ac.id., Iterative, 202.12.31.53, Authoritative, Referral with Glue to 103.19.177.177, 217.554 ms, 0.000 ms, MISS
+2025-10-28 17:53:09.762738, ppsuika.ac.id., Iterative, 103.19.177.177, Authoritative, Failed to Resolve NS IP for ns1.rumahweb.com., 187.189 ms, 0.000 ms, MISS
+2025-10-28 17:53:09.763022, ppsuika.ac.id., Iterative, 103.19.177.177, Failure, NXDOMAIN/Timeout, 652.821 ms, 695.807 ms, FAILED
+2025-10-28 17:53:10.034770, probigbets.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 222.622 ms, 0.000 ms, MISS
+2025-10-28 17:53:10.279204, probigbets.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654214 1800 900 604800 900, 198.280 ms, 0.000 ms, MISS
+2025-10-28 17:53:10.279370, probigbets.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 420.902 ms, 467.714 ms, FAILED
+2025-10-28 17:53:10.543637, progettogiovani.pd.it., Iterative, 198.41.0.4, Root, Referral with Glue to 194.0.16.215, 225.990 ms, 0.000 ms, MISS
+2025-10-28 17:53:10.745107, progettogiovani.pd.it., Iterative, 194.0.16.215, Authoritative, Referral with Glue to 213.140.22.93, 200.770 ms, 0.000 ms, MISS
+2025-10-28 17:53:10.956112, progettogiovani.pd.it., Iterative, 213.140.22.93, Authoritative, A, 210.674 ms, 639.072 ms, MISS
+2025-10-28 17:53:11.260250, radioterminal.ru., Iterative, 198.41.0.4, Root, Referral with Glue to 193.232.128.6, 254.700 ms, 0.000 ms, MISS
+2025-10-28 17:53:11.566135, radioterminal.ru., Iterative, 193.232.128.6, TLD, Referral with Glue to 85.193.93.85, 305.537 ms, 0.000 ms, MISS
+2025-10-28 17:53:11.829660, radioterminal.ru., Iterative, 85.193.93.85, TLD, A, 262.908 ms, 824.760 ms, MISS
+2025-10-28 17:53:12.053354, reprosystems.ru., Iterative, 198.41.0.4, Root, Referral with Glue to 193.232.128.6, 178.313 ms, 0.000 ms, MISS
+2025-10-28 17:53:12.340467, reprosystems.ru., Iterative, 193.232.128.6, TLD, Failed to Resolve NS IP for brodie.ns.cloudflare.com., 239.092 ms, 0.000 ms, MISS
+2025-10-28 17:53:12.340770, reprosystems.ru., Iterative, 193.232.128.6, Failure, NXDOMAIN/Timeout, 417.404 ms, 466.721 ms, FAILED
+2025-10-28 17:53:12.563970, retiragroup.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 176.925 ms, 0.000 ms, MISS
+2025-10-28 17:53:12.783576, retiragroup.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654214 1800 900 604800 900, 172.875 ms, 0.000 ms, MISS
+2025-10-28 17:53:12.783833, retiragroup.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 349.800 ms, 397.271 ms, FAILED
+2025-10-28 17:53:13.042048, rtsab.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 210.268 ms, 0.000 ms, MISS
+2025-10-28 17:53:13.326758, rtsab.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 193.14.90.50, 283.371 ms, 0.000 ms, MISS
+2025-10-28 17:53:13.572505, rtsab.com., Iterative, 193.14.90.50, TLD, Failed to Resolve NS IP for dns01.dipcon.com. registry.ports.net. 2025101000 14400 3600 1814400 3600, 201.791 ms, 0.000 ms, MISS
+2025-10-28 17:53:13.572973, rtsab.com., Iterative, 193.14.90.50, Failure, NXDOMAIN/Timeout, 695.430 ms, 741.999 ms, FAILED
+2025-10-28 17:53:13.818886, running-sigi.de., Iterative, 198.41.0.4, Root, Referral with Glue to 194.0.0.53, 198.984 ms, 0.000 ms, MISS
+2025-10-28 17:53:14.075328, running-sigi.de., Iterative, 194.0.0.53, TLD, Failed to Resolve NS IP for f.nic.de. dns-operations.denic.de. 1761654138 7200 7200 3600000 7200, 208.653 ms, 0.000 ms, MISS
+2025-10-28 17:53:14.075674, running-sigi.de., Iterative, 194.0.0.53, Failure, NXDOMAIN/Timeout, 407.638 ms, 456.327 ms, FAILED
+2025-10-28 17:53:14.334555, sdccdonline.net., Iterative, 198.41.0.4, Root, Referral with Glue to 192.55.83.30, 210.656 ms, 0.000 ms, MISS
+2025-10-28 17:53:14.541507, sdccdonline.net., Iterative, 192.55.83.30, TLD, Referral with Glue to 130.150.102.20, 206.517 ms, 0.000 ms, MISS
+2025-10-28 17:53:19.548974, sdccdonline.net., Iterative, 130.150.102.20, TLD, Timeout, 5000.000 ms, 0.000 ms, MISS
+2025-10-28 17:53:19.549364, sdccdonline.net., Iterative, 130.150.102.20, Failure, NXDOMAIN/Timeout, 417.173 ms, 5426.582 ms, FAILED
+2025-10-28 17:53:19.763376, sdccdonline.net., Iterative, 198.41.0.4, Root, Referral with Glue to 192.55.83.30, 212.232 ms, 0.000 ms, MISS
+2025-10-28 17:53:19.968283, sdccdonline.net., Iterative, 192.55.83.30, TLD, Referral with Glue to 130.150.102.20, 204.353 ms, 0.000 ms, MISS
+2025-10-28 17:53:24.976832, sdccdonline.net., Iterative, 130.150.102.20, TLD, Timeout, 5000.000 ms, 0.000 ms, MISS
+2025-10-28 17:53:24.977195, sdccdonline.net., Iterative, 130.150.102.20, Failure, NXDOMAIN/Timeout, 416.585 ms, 5426.847 ms, FAILED
+2025-10-28 17:53:24.977993, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.189 ms, HIT
+2025-10-28 17:53:24.978659, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.157 ms, HIT
+2025-10-28 17:53:25.192274, sheltercoveinn.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 211.488 ms, 0.000 ms, MISS
+2025-10-28 17:53:25.404713, sheltercoveinn.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 64.98.148.137, 211.529 ms, 0.000 ms, MISS
+2025-10-28 17:53:25.749495, sheltercoveinn.com., Iterative, 64.98.148.137, TLD, Failed to Resolve NS IP for dns1.name-services.com. info.name-services.com. 1751381207 172800 900 1814400 300, 306.551 ms, 0.000 ms, MISS
+2025-10-28 17:53:25.749776, sheltercoveinn.com., Iterative, 64.98.148.137, Failure, NXDOMAIN/Timeout, 729.568 ms, 769.433 ms, FAILED
+2025-10-28 17:53:26.015899, sheltercoveinn.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 264.737 ms, 0.000 ms, MISS
+2025-10-28 17:53:26.221581, sheltercoveinn.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 64.98.148.137, 204.857 ms, 0.000 ms, MISS
+2025-10-28 17:53:26.675338, sheltercoveinn.com., Iterative, 64.98.148.137, TLD, Failed to Resolve NS IP for dns1.name-services.com. info.name-services.com. 1751381207 172800 900 1814400 300, 413.862 ms, 0.000 ms, MISS
+2025-10-28 17:53:26.675707, sheltercoveinn.com., Iterative, 64.98.148.137, Failure, NXDOMAIN/Timeout, 883.455 ms, 924.937 ms, FAILED
+2025-10-28 17:53:26.676858, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.369 ms, HIT
+2025-10-28 17:53:26.679327, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.221 ms, HIT
+2025-10-28 17:53:26.680938, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.180 ms, HIT
+2025-10-28 17:53:26.929222, shivalikprints.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 245.087 ms, 0.000 ms, MISS
+2025-10-28 17:53:27.136391, shivalikprints.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 162.251.82.122, 205.410 ms, 0.000 ms, MISS
+2025-10-28 17:53:27.187063, shivalikprints.com., Iterative, 162.251.82.122, TLD, A, 49.914 ms, 504.520 ms, MISS
+2025-10-28 17:53:27.187875, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.171 ms, HIT
+2025-10-28 17:53:27.188595, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.153 ms, HIT
+2025-10-28 17:53:27.215133, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.455 ms, HIT
+2025-10-28 17:53:27.444880, shqqaa.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 208.603 ms, 0.000 ms, MISS
+2025-10-28 17:53:27.643348, shqqaa.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 108.162.193.122, 198.006 ms, 0.000 ms, MISS
+2025-10-28 17:53:27.704200, shqqaa.com., Iterative, 108.162.193.122, TLD, A, 59.958 ms, 468.525 ms, MISS
+2025-10-28 17:53:27.930904, simternet.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 174.196 ms, 0.000 ms, MISS
+2025-10-28 17:53:28.103336, simternet.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 97.74.100.21, 171.746 ms, 0.000 ms, MISS
+2025-10-28 17:53:28.288698, simternet.com., Iterative, 97.74.100.21, TLD, A, 184.902 ms, 532.649 ms, MISS
+2025-10-28 17:53:28.567813, somode.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 207.786 ms, 0.000 ms, MISS
+2025-10-28 17:53:28.784390, somode.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654229 1800 900 604800 900, 173.745 ms, 0.000 ms, MISS
+2025-10-28 17:53:28.784822, somode.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 381.531 ms, 425.441 ms, FAILED
+2025-10-28 17:53:29.083739, stunninggirls.net., Iterative, 198.41.0.4, Root, Referral with Glue to 192.55.83.30, 252.820 ms, 0.000 ms, MISS
+2025-10-28 17:53:29.287912, stunninggirls.net., Iterative, 192.55.83.30, TLD, Referral with Glue to 205.251.194.19, 203.701 ms, 0.000 ms, MISS
+2025-10-28 17:53:29.352181, stunninggirls.net., Iterative, 205.251.194.19, TLD, A, 63.838 ms, 521.776 ms, MISS
+2025-10-28 17:53:29.594025, toaskfuture.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 200.222 ms, 0.000 ms, MISS
+2025-10-28 17:53:29.796541, toaskfuture.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 156.154.132.200, 201.408 ms, 0.000 ms, MISS
+2025-10-28 17:53:29.863132, toaskfuture.com., Iterative, 156.154.132.200, TLD, A, 66.180 ms, 469.944 ms, MISS
+2025-10-28 17:53:30.104501, tottenhamhk.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 199.175 ms, 0.000 ms, MISS
+2025-10-28 17:53:30.355110, tottenhamhk.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654229 1800 900 604800 900, 213.315 ms, 0.000 ms, MISS
+2025-10-28 17:53:30.355759, tottenhamhk.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 412.490 ms, 451.221 ms, FAILED
+2025-10-28 17:53:30.612107, triggerfish.se., Iterative, 198.41.0.4, Root, Referral with Glue to 192.71.53.53, 214.493 ms, 0.000 ms, MISS
+2025-10-28 17:53:30.820562, triggerfish.se., Iterative, 192.71.53.53, TLD, Referral with Glue to 84.246.134.190, 207.084 ms, 0.000 ms, MISS
+2025-10-28 17:53:31.121421, triggerfish.se., Iterative, 84.246.134.190, TLD, A, 300.447 ms, 724.327 ms, MISS
+2025-10-28 17:53:31.122603, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.260 ms, HIT
+2025-10-28 17:53:31.124544, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.189 ms, HIT
+2025-10-28 17:53:31.143987, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.417 ms, HIT
+2025-10-28 17:53:31.165330, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.268 ms, HIT
+2025-10-28 17:53:31.166083, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.183 ms, HIT
+2025-10-28 17:53:31.439598, tuhafhaberler.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 271.734 ms, 0.000 ms, MISS
+2025-10-28 17:53:31.692144, tuhafhaberler.com., Iterative, 192.41.162.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654229 1800 900 604800 900, 203.867 ms, 0.000 ms, MISS
+2025-10-28 17:53:31.692529, tuhafhaberler.com., Iterative, 192.41.162.30, Failure, NXDOMAIN/Timeout, 475.600 ms, 525.738 ms, FAILED
+2025-10-28 17:53:31.693432, mobile.events.data.microsoft.com., Iterative, 10.0.0.5, Cache, CNAME, 0.000 ms, 0.160 ms, HIT
+2025-10-28 17:53:31.943794, uahoy.net., Iterative, 198.41.0.4, Root, Referral with Glue to 192.55.83.30, 212.582 ms, 0.000 ms, MISS
+2025-10-28 17:53:32.188943, uahoy.net., Iterative, 192.55.83.30, TLD, Failed to Resolve NS IP for a.gtld-servers.net. nstld.verisign-grs.com. 1761654229 1800 900 604800 900, 200.800 ms, 0.000 ms, MISS
+2025-10-28 17:53:32.189243, uahoy.net., Iterative, 192.55.83.30, Failure, NXDOMAIN/Timeout, 413.381 ms, 458.704 ms, FAILED
+2025-10-28 17:53:32.455903, us.tf., Iterative, 198.41.0.4, Root, Referral with Glue to 194.146.106.46, 222.663 ms, 0.000 ms, MISS
+2025-10-28 17:53:32.709154, us.tf., Iterative, 194.146.106.46, TLD, Failed to Resolve NS IP for ns1.idnscan.net., 204.663 ms, 0.000 ms, MISS
+2025-10-28 17:53:32.710067, us.tf., Iterative, 194.146.106.46, Failure, NXDOMAIN/Timeout, 427.326 ms, 477.386 ms, FAILED
+2025-10-28 17:53:32.946588, wrestlingfanssuck.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 195.402 ms, 0.000 ms, MISS
+2025-10-28 17:53:33.114589, wrestlingfanssuck.com., Iterative, 192.41.162.30, TLD, Referral with Glue to 95.110.136.8, 167.609 ms, 0.000 ms, MISS
+2025-10-28 17:53:33.300829, wrestlingfanssuck.com., Iterative, 95.110.136.8, TLD, A, 185.684 ms, 550.800 ms, MISS
+2025-10-28 17:53:33.586745, zzxu.cn., Iterative, 198.41.0.4, Root, Referral with Glue to 203.119.29.1, 210.982 ms, 0.000 ms, MISS
+2025-10-28 17:53:34.404830, zzxu.cn., Iterative, 203.119.29.1, TLD, Failed to Resolve NS IP for ns1.judns.com., 301.060 ms, 0.000 ms, MISS
+2025-10-28 17:53:34.405324, zzxu.cn., Iterative, 203.119.29.1, Failure, NXDOMAIN/Timeout, 512.042 ms, 1030.648 ms, FAILED
+2025-10-28 17:53:35.839350, api.github.com., Iterative, 198.41.0.4, Root, Referral with Glue to 192.41.162.30, 215.684 ms, 0.000 ms, MISS
+2025-10-28 17:53:36.091040, api.github.com., Iterative, 192.41.162.30, Authoritative, Referral with Glue to 205.251.193.165, 250.601 ms, 0.000 ms, MISS
+2025-10-28 17:53:36.223948, api.github.com., Iterative, 205.251.193.165, Authoritative, A, 128.496 ms, 600.656 ms, MISS
+2025-10-28 17:53:36.225901, api.github.com., Iterative, 10.0.0.5, Cache, A, 0.000 ms, 0.245 ms, HIT
